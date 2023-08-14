@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on danfreimann.dev</title>
-    <link>https://melriax.github.io/freimd-blog/posts/</link>
+    <link>https://danfreimann.dev/posts/</link>
     <description>Recent content in Posts on danfreimann.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2023 15:39:20 +0200</lastBuildDate><atom:link href="https://melriax.github.io/freimd-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 15:39:20 +0200</lastBuildDate><atom:link href="https://danfreimann.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my blog</title>
-      <link>https://melriax.github.io/freimd-blog/posts/hello-world/</link>
+      <link>https://danfreimann.dev/posts/hello-world/</link>
       <pubDate>Mon, 14 Aug 2023 15:39:20 +0200</pubDate>
       
-      <guid>https://melriax.github.io/freimd-blog/posts/hello-world/</guid>
+      <guid>https://danfreimann.dev/posts/hello-world/</guid>
       <description>Hello World! Nice to see you here. So you probably want to know a little bit about what content i will be posting on this blog, right? For the most part i will blog about what i am currently learning, what projects i already did and sometimes a tutorial on topics that i am already quite familiar. If that sparked your interest than you can add my blog to your rss reader and never miss a post.</description>
     </item>
     

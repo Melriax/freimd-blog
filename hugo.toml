@@ -1,4 +1,4 @@
-baseURL = 'https://melriax.github.io/freimd-blog/'
+baseURL = 'https://danfreimann.dev/'
 languageCode = 'en-us'
 title = 'danfreimann.dev'
 theme = "paper"
