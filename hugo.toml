@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'danfreimann.dev'
 theme = "paper"
 publishDir = "docs"
+
+[params]
+  # Header for social icons
+	rss = true
+	github = 'github.com/Melriax'
