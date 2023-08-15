@@ -1,6 +1,6 @@
 baseURL = 'https://danfreimann.dev/'
 languageCode = 'en-us'
-title = 'danfreimann.dev'
+title = 'danfreimann'
 theme = "paper"
 publishDir = "docs"
 
