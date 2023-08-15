@@ -7,4 +7,4 @@ publishDir = "docs"
 [params]
   # Header for social icons
 	rss = true
-	github = 'github.com/Melriax'
+	github = 'Melriax'
